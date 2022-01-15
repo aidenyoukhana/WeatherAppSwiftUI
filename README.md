@@ -1,10 +1,10 @@
 ######################################################################
 #                                                                    #
-*                          AIDEN YOUKHANA                            *
-#                          January 14th, 2022.                       #
-#                          VERSION 1.0.0.                            #
-#                          ALL RIGHTS RESERVED                       #
-#                                                                    #
+*                          AIDEN YOUKHANA                            #
+*                          January 14th, 2022.                       #
+*                          VERSION 1.0.0.                            #
+*                          ALL RIGHTS RESERVED                       #
+*                                                                    #
 ######################################################################
 
 WeatherAppSwiftUI
