@@ -16,4 +16,6 @@ WeatherAppSwiftUI
       **5**. Used a @State variables throughout the project.
       **6**. Used a @Binding variables to change that status of the modes.
       **7**. A linear gradient coloring system was used to design the light mode of the background view.
+      
+      *         https://github.com/aidenyoukhana/WeatherAppSwiftUI         #
  
