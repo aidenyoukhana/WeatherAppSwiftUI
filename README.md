@@ -1,11 +1,9 @@
-######################################################################
 #                                                                    #
 #                          AIDEN YOUKHANA                            #
 #                          January 14th, 2022.                       #
 #                          VERSION 1.0.0.                            #
 #                          ALL RIGHTS RESERVED                       #
 #                                                                    #
-######################################################################
 
 WeatherAppSwiftUI
       **1**. This is an awesome weather app that was built using Xcode and iOS native programming languages: swift.
